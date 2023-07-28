@@ -40,3 +40,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+### Snake Eating my Contribution
+
+![snake gif](https://github.com/soorjya/soorjya/blob/output/github-contribution-grid-snake.gif)
