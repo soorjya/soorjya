@@ -40,8 +40,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@soorjya/30-nites-of-code)  
+  ![@soorjya #30NitesOfCode](https://www.codedex.io/api/petStatus?user=soorjya)
 
-  ### Snake Eating my Contribution
   
   ![snake gif](https://github.com/soorjya/soorjya/blob/output/github-contribution-grid-snake.gif)
 
