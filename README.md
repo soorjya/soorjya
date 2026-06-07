@@ -53,7 +53,7 @@
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/soorjya?theme=dark&font=baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/YB4grDA9yO?theme=dark&font=baloo&ext=heatmap)
 
 ---
 
