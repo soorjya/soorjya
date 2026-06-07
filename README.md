@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **soorjyakant123@gmail.com**
 
-- ⚡ Fun fact **"I once accidentally walked into a glass door, thinking it was open. It was a moment of embarrassment and a valuable lesson in paying more attention to my surroundings!"**
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
